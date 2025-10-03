@@ -1,0 +1,1856 @@
+{
+  "metadata": {
+    "source": "SMARTIMING_Plantilla_pt10.xlsx",
+    "description": "Plantilla de datos para el sistema de horarios SMARTIMING",
+    "version": "pt10",
+    "extraction_date": "2024-01-01"
+  },
+  "slots": [
+    {
+      "dia": "Lunes",
+      "slot": "1",
+      "inicio": "08:15",
+      "fin": "09:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Lunes",
+      "slot": "2",
+      "inicio": "09:15",
+      "fin": "10:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Lunes",
+      "slot": "3",
+      "inicio": "10:15",
+      "fin": "11:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Lunes",
+      "slot": "R",
+      "inicio": "11:15",
+      "fin": "11:45",
+      "tipo": "Recreo",
+      "demandaGuardiasPasillo": 0,
+      "demandaGuardiasRecreo": 6
+    },
+    {
+      "dia": "Lunes",
+      "slot": "4",
+      "inicio": "11:45",
+      "fin": "12:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Lunes",
+      "slot": "5",
+      "inicio": "12:45",
+      "fin": "13:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Lunes",
+      "slot": "6",
+      "inicio": "13:45",
+      "fin": "14:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Martes",
+      "slot": "1",
+      "inicio": "08:15",
+      "fin": "09:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Martes",
+      "slot": "2",
+      "inicio": "09:15",
+      "fin": "10:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Martes",
+      "slot": "3",
+      "inicio": "10:15",
+      "fin": "11:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Martes",
+      "slot": "R",
+      "inicio": "11:15",
+      "fin": "11:45",
+      "tipo": "Recreo",
+      "demandaGuardiasPasillo": 0,
+      "demandaGuardiasRecreo": 6
+    },
+    {
+      "dia": "Martes",
+      "slot": "4",
+      "inicio": "11:45",
+      "fin": "12:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Martes",
+      "slot": "5",
+      "inicio": "12:45",
+      "fin": "13:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Martes",
+      "slot": "6",
+      "inicio": "13:45",
+      "fin": "14:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Miércoles",
+      "slot": "1",
+      "inicio": "08:15",
+      "fin": "09:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Miércoles",
+      "slot": "2",
+      "inicio": "09:15",
+      "fin": "10:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Miércoles",
+      "slot": "3",
+      "inicio": "10:15",
+      "fin": "11:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Miércoles",
+      "slot": "R",
+      "inicio": "11:15",
+      "fin": "11:45",
+      "tipo": "Recreo",
+      "demandaGuardiasPasillo": 0,
+      "demandaGuardiasRecreo": 6
+    },
+    {
+      "dia": "Miércoles",
+      "slot": "4",
+      "inicio": "11:45",
+      "fin": "12:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Miércoles",
+      "slot": "5",
+      "inicio": "12:45",
+      "fin": "13:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Miércoles",
+      "slot": "6",
+      "inicio": "13:45",
+      "fin": "14:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Jueves",
+      "slot": "1",
+      "inicio": "08:15",
+      "fin": "09:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Jueves",
+      "slot": "2",
+      "inicio": "09:15",
+      "fin": "10:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Jueves",
+      "slot": "3",
+      "inicio": "10:15",
+      "fin": "11:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Jueves",
+      "slot": "R",
+      "inicio": "11:15",
+      "fin": "11:45",
+      "tipo": "Recreo",
+      "demandaGuardiasPasillo": 0,
+      "demandaGuardiasRecreo": 6
+    },
+    {
+      "dia": "Jueves",
+      "slot": "4",
+      "inicio": "11:45",
+      "fin": "12:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Jueves",
+      "slot": "5",
+      "inicio": "12:45",
+      "fin": "13:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Jueves",
+      "slot": "6",
+      "inicio": "13:45",
+      "fin": "14:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Viernes",
+      "slot": "1",
+      "inicio": "08:15",
+      "fin": "09:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Viernes",
+      "slot": "2",
+      "inicio": "09:15",
+      "fin": "10:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Viernes",
+      "slot": "3",
+      "inicio": "10:15",
+      "fin": "11:15",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Viernes",
+      "slot": "R",
+      "inicio": "11:15",
+      "fin": "11:45",
+      "tipo": "Recreo",
+      "demandaGuardiasPasillo": 0,
+      "demandaGuardiasRecreo": 6
+    },
+    {
+      "dia": "Viernes",
+      "slot": "4",
+      "inicio": "11:45",
+      "fin": "12:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Viernes",
+      "slot": "5",
+      "inicio": "12:45",
+      "fin": "13:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 4,
+      "demandaGuardiasRecreo": 0
+    },
+    {
+      "dia": "Viernes",
+      "slot": "6",
+      "inicio": "13:45",
+      "fin": "14:45",
+      "tipo": "Clase",
+      "demandaGuardiasPasillo": 3,
+      "demandaGuardiasRecreo": 0
+    }
+  ],
+  "asignaturas": [
+    {
+      "asigId": "MAT1",
+      "nombre": "Matemáticas I",
+      "codigoOficial": "",
+      "etapa": "Bach",
+      "curso": "1",
+      "itinerarioPrograma": "Ciencias",
+      "horasSemanales": 4,
+      "distribucionSemanal": "1,1,1,1"
+    },
+    {
+      "asigId": "LAT1",
+      "nombre": "Latín I",
+      "codigoOficial": "",
+      "etapa": "Bach",
+      "curso": "1",
+      "itinerarioPrograma": "Humanidades",
+      "horasSemanales": 4,
+      "distribucionSemanal": "1,1,1,1"
+    },
+    {
+      "asigId": "DTEC2",
+      "nombre": "Dibujo Técnico II",
+      "codigoOficial": "",
+      "etapa": "Bach",
+      "curso": "2",
+      "itinerarioPrograma": "Mixto",
+      "horasSemanales": 4,
+      "distribucionSemanal": "1,1,1,1"
+    },
+    {
+      "asigId": "ANT",
+      "nombre": "Antropología",
+      "codigoOficial": "",
+      "etapa": "Bach",
+      "curso": "2",
+      "itinerarioPrograma": "Mixto",
+      "horasSemanales": 2,
+      "distribucionSemanal": "1.1"
+    },
+    {
+      "asigId": "PSI",
+      "nombre": "Psicología",
+      "codigoOficial": "",
+      "etapa": "Bach",
+      "curso": "2",
+      "itinerarioPrograma": "Mixto",
+      "horasSemanales": 2,
+      "distribucionSemanal": "1.1"
+    },
+    {
+      "asigId": "FRA",
+      "nombre": "Francés",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "3",
+      "itinerarioPrograma": "Optativa",
+      "horasSemanales": 4,
+      "distribucionSemanal": "1,1,1,1"
+    },
+    {
+      "asigId": "TIC",
+      "nombre": "Tecnología de la Información",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "3",
+      "itinerarioPrograma": "Optativa",
+      "horasSemanales": 4,
+      "distribucionSemanal": "1,1,1,1"
+    },
+    {
+      "asigId": "PLA",
+      "nombre": "Educación Plástica",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "3",
+      "itinerarioPrograma": "Optativa",
+      "horasSemanales": 4,
+      "distribucionSemanal": "1,1,1,1"
+    },
+    {
+      "asigId": "REL",
+      "nombre": "Religión",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "2",
+      "itinerarioPrograma": "Específica",
+      "horasSemanales": 1,
+      "distribucionSemanal": "1"
+    },
+    {
+      "asigId": "VAL",
+      "nombre": "Valores Éticos",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "2",
+      "itinerarioPrograma": "Específica",
+      "horasSemanales": 1,
+      "distribucionSemanal": "1"
+    },
+    {
+      "asigId": "ASL3D",
+      "nombre": "Ámbito Socioling. Diver",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "3",
+      "itinerarioPrograma": "Diversificación",
+      "horasSemanales": 2,
+      "distribucionSemanal": "2"
+    },
+    {
+      "asigId": "TEC",
+      "nombre": "Tecnología",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "3",
+      "itinerarioPrograma": "Troncal",
+      "horasSemanales": 2,
+      "distribucionSemanal": "2"
+    },
+    {
+      "asigId": "BIO",
+      "nombre": "Biología y Geología",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "4",
+      "itinerarioPrograma": "Troncal",
+      "horasSemanales": 4,
+      "distribucionSemanal": "1,1,1,1"
+    },
+    {
+      "asigId": "ING",
+      "nombre": "Inglés",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "1",
+      "itinerarioPrograma": "Troncal/Desdoble",
+      "horasSemanales": 3,
+      "distribucionSemanal": "1,1,1"
+    },
+    {
+      "asigId": "EF",
+      "nombre": "Educación Física",
+      "codigoOficial": "",
+      "etapa": "ESO",
+      "curso": "1",
+      "itinerarioPrograma": "Troncal",
+      "horasSemanales": 2,
+      "distribucionSemanal": "1.1"
+    },
+    {
+      "asigId": "TALLER",
+      "nombre": "Taller de Montaje",
+      "codigoOficial": "",
+      "etapa": "FP",
+      "curso": "1",
+      "itinerarioPrograma": "Electricidad",
+      "horasSemanales": 4,
+      "distribucionSemanal": "2.2"
+    },
+    {
+      "asigId": "CAD",
+      "nombre": "CAD / Diseño Asistido",
+      "codigoOficial": "",
+      "etapa": "FP",
+      "curso": "1",
+      "itinerarioPrograma": "Electricidad",
+      "horasSemanales": 5,
+      "distribucionSemanal": "2,2,1"
+    },
+    {
+      "asigId": "PRL",
+      "nombre": "Prevención de Riesgos / Normativa",
+      "codigoOficial": "",
+      "etapa": "FP",
+      "curso": "1",
+      "itinerarioPrograma": "Electricidad",
+      "horasSemanales": 2,
+      "distribucionSemanal": "2"
+    }
+  ],
+  "docentes": [
+    {
+      "docenteId": "D001",
+      "docenteNombre": "Ana López",
+      "departamento": "Matemáticas",
+      "notas": ""
+    },
+    {
+      "docenteId": "D002",
+      "docenteNombre": "Luis Martín",
+      "departamento": "Latín",
+      "notas": ""
+    },
+    {
+      "docenteId": "D003",
+      "docenteNombre": "Marta Ruiz",
+      "departamento": "Dibujo Técnico",
+      "notas": ""
+    },
+    {
+      "docenteId": "D004",
+      "docenteNombre": "Carlos Ortega",
+      "departamento": "Filosofía/Antropología",
+      "notas": ""
+    },
+    {
+      "docenteId": "D005",
+      "docenteNombre": "Paula Sánchez",
+      "departamento": "Psicología",
+      "notas": ""
+    },
+    {
+      "docenteId": "D006",
+      "docenteNombre": "Javier Torres",
+      "departamento": "Francés",
+      "notas": ""
+    },
+    {
+      "docenteId": "D007",
+      "docenteNombre": "Sara Gómez",
+      "departamento": "Tecnología/TIC",
+      "notas": ""
+    },
+    {
+      "docenteId": "D008",
+      "docenteNombre": "Beatriz Vega",
+      "departamento": "Plástica",
+      "notas": ""
+    },
+    {
+      "docenteId": "D009",
+      "docenteNombre": "Elena Pérez",
+      "departamento": "Religión",
+      "notas": ""
+    },
+    {
+      "docenteId": "D010",
+      "docenteNombre": "Diego Navarro",
+      "departamento": "Valores Éticos",
+      "notas": ""
+    },
+    {
+      "docenteId": "D011",
+      "docenteNombre": "Nuria Morales",
+      "departamento": "Tecnología",
+      "notas": ""
+    },
+    {
+      "docenteId": "D012",
+      "docenteNombre": "Óscar León",
+      "departamento": "Biología y Geología",
+      "notas": ""
+    },
+    {
+      "docenteId": "D013",
+      "docenteNombre": "Raquel Gil",
+      "departamento": "Inglés",
+      "notas": ""
+    },
+    {
+      "docenteId": "D014",
+      "docenteNombre": "Tomás Ibar",
+      "departamento": "Educación Física",
+      "notas": ""
+    },
+    {
+      "docenteId": "D015",
+      "docenteNombre": "Víctor Ríos",
+      "departamento": "Orientación",
+      "notas": ""
+    },
+    {
+      "docenteId": "D016",
+      "docenteNombre": "Inés Duarte",
+      "departamento": "Formación y PRL",
+      "notas": ""
+    },
+    {
+      "docenteId": "D017",
+      "docenteNombre": "Pedro Campos",
+      "departamento": "Electricidad (Taller)",
+      "notas": ""
+    },
+    {
+      "docenteId": "D018",
+      "docenteNombre": "Alicia Romero",
+      "departamento": "CAD / TIC",
+      "notas": ""
+    },
+    {
+      "docenteId": "D019",
+      "docenteNombre": "Hugo Serrano",
+      "departamento": "Jefatura de Estudios",
+      "notas": ""
+    },
+    {
+      "docenteId": "D020",
+      "docenteNombre": "Lucía Prieto",
+      "departamento": "Apoyo/Desdobles",
+      "notas": ""
+    },
+    {
+      "docenteId": "D021",
+      "docenteNombre": "Elena Soria",
+      "departamento": "Educación Física",
+      "notas": ""
+    },
+    {
+      "docenteId": "D022",
+      "docenteNombre": "Pablo Nieto",
+      "departamento": "Inglés",
+      "notas": ""
+    },
+    {
+      "docenteId": "D023",
+      "docenteNombre": "Sofía Durand",
+      "departamento": "Francés",
+      "notas": ""
+    },
+    {
+      "docenteId": "D024",
+      "docenteNombre": "Marcos Lillo",
+      "departamento": "Tecnología/TIC",
+      "notas": ""
+    },
+    {
+      "docenteId": "D025",
+      "docenteNombre": "Clara Montes",
+      "departamento": "Plástica",
+      "notas": ""
+    },
+    {
+      "docenteId": "D026",
+      "docenteNombre": "Itziar Navas",
+      "departamento": "Orientación/Ámbitos",
+      "notas": ""
+    }
+  ],
+  "aulas": [
+    {
+      "aulaId": "A101",
+      "nombre": "Aula 101",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A102",
+      "nombre": "Aula 102",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A201",
+      "nombre": "Aula 201",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A202",
+      "nombre": "Aula 202",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "LAB_BIO",
+      "nombre": "Laboratorio Biología",
+      "tipo": "LABORATORIO",
+      "capacidad": 28,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": "Aforo 28"
+    },
+    {
+      "aulaId": "GYM",
+      "nombre": "Gimnasio",
+      "tipo": "GYM",
+      "capacidad": 60,
+      "edificio": "Pabellón",
+      "compartible": "YES",
+      "notas": "Compartible por 2 grupos"
+    },
+    {
+      "aulaId": "AULA_TIC",
+      "nombre": "Aula TIC 1",
+      "tipo": "TIC",
+      "capacidad": 28,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": "PCs 1:1"
+    },
+    {
+      "aulaId": "TALLER_ELEC",
+      "nombre": "Taller Electricidad",
+      "tipo": "TALLER",
+      "capacidad": 20,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": "Herramientas y EPIs"
+    },
+    {
+      "aulaId": "AULA_TIC_2",
+      "nombre": "Aula TIC 2",
+      "tipo": "TIC",
+      "capacidad": 28,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": "PCs 1:1"
+    },
+    {
+      "aulaId": "AULA_APOYO1",
+      "nombre": "Aula de Apoyo 1",
+      "tipo": "AULA",
+      "capacidad": 15,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": "Diversificación / refuerzo"
+    },
+    {
+      "aulaId": "AULA_APOYO2",
+      "nombre": "Aula de Apoyo 2",
+      "tipo": "AULA",
+      "capacidad": 15,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": "Diversificación / refuerzo"
+    },
+    {
+      "aulaId": "A103",
+      "nombre": "Aula 103",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A203",
+      "nombre": "Aula 203",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A204",
+      "nombre": "Aula 204",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A301",
+      "nombre": "Aula 301",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A302",
+      "nombre": "Aula 302",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A303",
+      "nombre": "Aula 303",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A304",
+      "nombre": "Aula 304",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A401",
+      "nombre": "Aula 401",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A402",
+      "nombre": "Aula 402",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A403",
+      "nombre": "Aula 403",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A404",
+      "nombre": "Aula 404",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A501",
+      "nombre": "Aula 501",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A502",
+      "nombre": "Aula 502",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A601",
+      "nombre": "Aula 601",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    },
+    {
+      "aulaId": "A602",
+      "nombre": "Aula 602",
+      "tipo": "AULA",
+      "capacidad": 32,
+      "edificio": "Edif A",
+      "compartible": "NO",
+      "notas": ""
+    }
+  ],
+  "grupos": [
+    {
+      "grupoId": "1ESO-A",
+      "etapa": "ESO",
+      "curso": "1",
+      "letra": "A",
+      "modalidadItinerario": "General",
+      "numAlumnos": 30,
+      "aulaReferencia": "A101",
+      "notas": ""
+    },
+    {
+      "grupoId": "1ESO-B",
+      "etapa": "ESO",
+      "curso": "1",
+      "letra": "B",
+      "modalidadItinerario": "General",
+      "numAlumnos": 28,
+      "aulaReferencia": "A102",
+      "notas": ""
+    },
+    {
+      "grupoId": "2ESO-A",
+      "etapa": "ESO",
+      "curso": "2",
+      "letra": "A",
+      "modalidadItinerario": "General",
+      "numAlumnos": 29,
+      "aulaReferencia": "A201",
+      "notas": ""
+    },
+    {
+      "grupoId": "2ESO-B",
+      "etapa": "ESO",
+      "curso": "2",
+      "letra": "B",
+      "modalidadItinerario": "General",
+      "numAlumnos": 30,
+      "aulaReferencia": "A202",
+      "notas": ""
+    },
+    {
+      "grupoId": "2ESO-C",
+      "etapa": "ESO",
+      "curso": "2",
+      "letra": "C",
+      "modalidadItinerario": "General",
+      "numAlumnos": 27,
+      "aulaReferencia": "A203",
+      "notas": ""
+    },
+    {
+      "grupoId": "3ESO-A",
+      "etapa": "ESO",
+      "curso": "3",
+      "letra": "A",
+      "modalidadItinerario": "General",
+      "numAlumnos": 30,
+      "aulaReferencia": "A301",
+      "notas": ""
+    },
+    {
+      "grupoId": "3ESO-B",
+      "etapa": "ESO",
+      "curso": "3",
+      "letra": "B",
+      "modalidadItinerario": "General",
+      "numAlumnos": 29,
+      "aulaReferencia": "A302",
+      "notas": ""
+    },
+    {
+      "grupoId": "4ESO-A",
+      "etapa": "ESO",
+      "curso": "4",
+      "letra": "A",
+      "modalidadItinerario": "General",
+      "numAlumnos": 28,
+      "aulaReferencia": "A401",
+      "notas": ""
+    },
+    {
+      "grupoId": "4ESO-B",
+      "etapa": "ESO",
+      "curso": "4",
+      "letra": "B",
+      "modalidadItinerario": "General",
+      "numAlumnos": 27,
+      "aulaReferencia": "A402",
+      "notas": ""
+    },
+    {
+      "grupoId": "1BACH-CIEN",
+      "etapa": "Bach",
+      "curso": "1",
+      "letra": "",
+      "modalidadItinerario": "Ciencias",
+      "numAlumnos": 32,
+      "aulaReferencia": "A501",
+      "notas": ""
+    },
+    {
+      "grupoId": "1BACH-HUM",
+      "etapa": "Bach",
+      "curso": "1",
+      "letra": "",
+      "modalidadItinerario": "Humanidades",
+      "numAlumnos": 31,
+      "aulaReferencia": "A502",
+      "notas": ""
+    },
+    {
+      "grupoId": "2BACH",
+      "etapa": "Bach",
+      "curso": "2",
+      "letra": "",
+      "modalidadItinerario": "Mixto",
+      "numAlumnos": 60,
+      "aulaReferencia": "A601",
+      "notas": ""
+    },
+    {
+      "grupoId": "FP1-ELEC",
+      "etapa": "FP",
+      "curso": "1",
+      "letra": "",
+      "modalidadItinerario": "Electricidad",
+      "numAlumnos": 24,
+      "aulaReferencia": "TALLER_ELEC",
+      "notas": ""
+    }
+  ],
+  "bloques": [
+    {
+      "bloqueId": "B001",
+      "grupoId": "2BACH-DTEC2-P1",
+      "asigId": "DTEC2",
+      "docenteId": "D003",
+      "aulaId": "A601"
+    },
+    {
+      "bloqueId": "B002",
+      "grupoId": "2BACH-ANT",
+      "asigId": "ANT",
+      "docenteId": "D004",
+      "aulaId": "A602"
+    },
+    {
+      "bloqueId": "B003",
+      "grupoId": "2BACH-DTEC2-P2",
+      "asigId": "DTEC2",
+      "docenteId": "D003",
+      "aulaId": "A601"
+    },
+    {
+      "bloqueId": "B004",
+      "grupoId": "2BACH-PSI",
+      "asigId": "PSI",
+      "docenteId": "D005",
+      "aulaId": "A602"
+    },
+    {
+      "bloqueId": "B005",
+      "grupoId": "3ESO-A-FRA",
+      "asigId": "FRA",
+      "docenteId": "D006",
+      "aulaId": "A301"
+    },
+    {
+      "bloqueId": "B006",
+      "grupoId": "3ESO-A-TIC",
+      "asigId": "TIC",
+      "docenteId": "D007",
+      "aulaId": "AULA_TIC"
+    },
+    {
+      "bloqueId": "B007",
+      "grupoId": "3ESO-A-PLA",
+      "asigId": "PLA",
+      "docenteId": "D008",
+      "aulaId": "A302"
+    },
+    {
+      "bloqueId": "B008",
+      "grupoId": "3ESO-B-FRA",
+      "asigId": "FRA",
+      "docenteId": "D023",
+      "aulaId": "A303"
+    },
+    {
+      "bloqueId": "B009",
+      "grupoId": "3ESO-B-TIC",
+      "asigId": "TIC",
+      "docenteId": "D024",
+      "aulaId": "AULA_TIC_2"
+    },
+    {
+      "bloqueId": "B010",
+      "grupoId": "3ESO-B-PLA",
+      "asigId": "PLA",
+      "docenteId": "D025",
+      "aulaId": "A304"
+    },
+    {
+      "bloqueId": "B011",
+      "grupoId": "2ESO-A-REL",
+      "asigId": "REL",
+      "docenteId": "D009",
+      "aulaId": "A201"
+    },
+    {
+      "bloqueId": "B012",
+      "grupoId": "2ESO-A-VAL",
+      "asigId": "VAL",
+      "docenteId": "D010",
+      "aulaId": "A201"
+    },
+    {
+      "bloqueId": "B013",
+      "grupoId": "2ESO-B-REL",
+      "asigId": "REL",
+      "docenteId": "D009",
+      "aulaId": "A202"
+    },
+    {
+      "bloqueId": "B014",
+      "grupoId": "2ESO-B-VAL",
+      "asigId": "VAL",
+      "docenteId": "D010",
+      "aulaId": "A202"
+    },
+    {
+      "bloqueId": "B015",
+      "grupoId": "2ESO-C-REL",
+      "asigId": "REL",
+      "docenteId": "D009",
+      "aulaId": "A203"
+    },
+    {
+      "bloqueId": "B016",
+      "grupoId": "2ESO-C-VAL",
+      "asigId": "VAL",
+      "docenteId": "D010",
+      "aulaId": "A203"
+    },
+    {
+      "bloqueId": "B020",
+      "grupoId": "3ESO-A-DIVER",
+      "asigId": "ASL3D",
+      "docenteId": "D015",
+      "aulaId": "AULA_APOYO1"
+    },
+    {
+      "bloqueId": "B021",
+      "grupoId": "3ESO-A-TIC",
+      "asigId": "TIC",
+      "docenteId": "D007",
+      "aulaId": "AULA_TIC"
+    },
+    {
+      "bloqueId": "B022",
+      "grupoId": "3ESO-B-DIVER",
+      "asigId": "ASL3D",
+      "docenteId": "D026",
+      "aulaId": "AULA_APOYO2"
+    },
+    {
+      "bloqueId": "B023",
+      "grupoId": "3ESO-B-PLA",
+      "asigId": "PLA",
+      "docenteId": "D025",
+      "aulaId": "A302"
+    },
+    {
+      "bloqueId": "B021",
+      "grupoId": "1ESO-A-ING-AV",
+      "asigId": "ING",
+      "docenteId": "D013",
+      "aulaId": "A101"
+    },
+    {
+      "bloqueId": "B022",
+      "grupoId": "1ESO-A-ING-IN",
+      "asigId": "ING",
+      "docenteId": "D022",
+      "aulaId": "A102"
+    },
+    {
+      "bloqueId": "B023",
+      "grupoId": "1ESO-A-ING-RE",
+      "asigId": "ING",
+      "docenteId": "D020",
+      "aulaId": "A103"
+    },
+    {
+      "bloqueId": "B026",
+      "grupoId": "4ESO-A",
+      "asigId": "BIO",
+      "docenteId": "D012",
+      "aulaId": "LAB_BIO"
+    },
+    {
+      "bloqueId": "B027",
+      "grupoId": "4ESO-B",
+      "asigId": "BIO",
+      "docenteId": "D020",
+      "aulaId": "A402"
+    },
+    {
+      "bloqueId": "B028",
+      "grupoId": "4ESO-B",
+      "asigId": "BIO",
+      "docenteId": "D012",
+      "aulaId": "LAB_BIO"
+    },
+    {
+      "bloqueId": "B029",
+      "grupoId": "4ESO-A",
+      "asigId": "BIO",
+      "docenteId": "D020",
+      "aulaId": "A401"
+    },
+    {
+      "bloqueId": "B030",
+      "grupoId": "FP1-ELEC-A",
+      "asigId": "TALLER",
+      "docenteId": "D017",
+      "aulaId": "TALLER_ELEC"
+    },
+    {
+      "bloqueId": "B031",
+      "grupoId": "FP1-ELEC-B",
+      "asigId": "CAD",
+      "docenteId": "D018",
+      "aulaId": "AULA_TIC"
+    },
+    {
+      "bloqueId": "B032",
+      "grupoId": "FP1-ELEC-C",
+      "asigId": "PRL",
+      "docenteId": "D016",
+      "aulaId": "A201"
+    },
+    {
+      "bloqueId": "B033",
+      "grupoId": "1BACH-CIEN",
+      "asigId": "MAT1",
+      "docenteId": "D001",
+      "aulaId": "A501"
+    },
+    {
+      "bloqueId": "B034",
+      "grupoId": "1BACH-HUM",
+      "asigId": "LAT1",
+      "docenteId": "D002",
+      "aulaId": "A502"
+    },
+    {
+      "bloqueId": "B035",
+      "grupoId": "1ESO-A",
+      "asigId": "EF",
+      "docenteId": "D014",
+      "aulaId": "GYM"
+    },
+    {
+      "bloqueId": "B036",
+      "grupoId": "1ESO-B",
+      "asigId": "EF",
+      "docenteId": "D021",
+      "aulaId": "GYM"
+    }
+  ],
+  "paralelismos": [
+    {
+      "paralId": "P1A",
+      "ambitoId": "2BACH",
+      "descripcion": "Dibujo(Parte1) || Antropología"
+    },
+    {
+      "paralId": "P1B",
+      "ambitoId": "2BACH",
+      "descripcion": "Dibujo(Parte2) || Psicología"
+    },
+    {
+      "paralId": "P2",
+      "ambitoId": "3ESO",
+      "descripcion": "FRA || TIC || PLA (A y B)"
+    },
+    {
+      "paralId": "P4",
+      "ambitoId": "3ESO",
+      "descripcion": "Diver A/B || Alternativas TIC/PLA"
+    },
+    {
+      "paralId": "P5",
+      "ambitoId": "1ESO-A",
+      "descripcion": "Inglés por niveles (AV/IN/RE)"
+    },
+    {
+      "paralId": "P6A",
+      "ambitoId": "4ESO",
+      "descripcion": "BIO: Lab 4ºA || Teoría 4ºB"
+    },
+    {
+      "paralId": "P6B",
+      "ambitoId": "4ESO",
+      "descripcion": "BIO: Lab 4ºB || Teoría 4ºA"
+    },
+    {
+      "paralId": "P7",
+      "ambitoId": "FP1-ELEC",
+      "descripcion": "Taller || CAD || PRL"
+    },
+    {
+      "paralId": "P8",
+      "ambitoId": "1Bach",
+      "descripcion": "Itinerarios (Ciencias vs Humanidades)"
+    },
+    {
+      "paralId": "P3C",
+      "ambitoId": "2ESO",
+      "descripcion": "Religión || Valores (2ESO-C)"
+    }
+  ],
+  "miembrosParalelismo": [
+    {
+      "paralId": "P1A",
+      "bloqueId": "B001",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=2BACH-DTEC2-P1; Asignatura=Dibujo Técnico II (DTEC2); Aula=A201; Docente=D003"
+    },
+    {
+      "paralId": "P1A",
+      "bloqueId": "B002",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=2BACH-ANT; Asignatura=Antropología (ANT); Aula=A202; Docente=D004"
+    },
+    {
+      "paralId": "P1B",
+      "bloqueId": "B003",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=2BACH-DTEC2-P2; Asignatura=Dibujo Técnico II (DTEC2); Aula=A201; Docente=D003"
+    },
+    {
+      "paralId": "P1B",
+      "bloqueId": "B004",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=2BACH-PSI; Asignatura=Psicología (PSI); Aula=A202; Docente=D005"
+    },
+    {
+      "paralId": "P2",
+      "bloqueId": "B005",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-A-FRA; Asignatura=Francés (FRA); Aula=A101; Docente=D006"
+    },
+    {
+      "paralId": "P2",
+      "bloqueId": "B006",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-A-TIC; Asignatura=Tecnología de la Información (TIC); Aula=AULA_TIC; Docente=D007"
+    },
+    {
+      "paralId": "P2",
+      "bloqueId": "B007",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-A-PLA; Asignatura=Educación Plástica (PLA); Aula=A201; Docente=D008"
+    },
+    {
+      "paralId": "P2",
+      "bloqueId": "B008",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-B-FRA; Asignatura=Francés (FRA); Aula=A102; Docente=D023"
+    },
+    {
+      "paralId": "P2",
+      "bloqueId": "B009",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-B-TIC; Asignatura=Tecnología de la Información (TIC); Aula=AULA_TIC_2; Docente=D024"
+    },
+    {
+      "paralId": "P2",
+      "bloqueId": "B010",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-B-PLA; Asignatura=Educación Plástica (PLA); Aula=A202; Docente=D025"
+    },
+    {
+      "paralId": "P4",
+      "bloqueId": "B020",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-A-DIVER; Asignatura=Ámbito Socioling. Diver (ASL3D); Aula=AULA_APOYO1; Docente=D015"
+    },
+    {
+      "paralId": "P4",
+      "bloqueId": "B006",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-A-TIC; Asignatura=Tecnología de la Información (TIC); Aula=AULA_TIC; Docente=D007"
+    },
+    {
+      "paralId": "P4",
+      "bloqueId": "B022",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-B-DIVER; Asignatura=Ámbito Socioling. Diver (ASL3D); Aula=AULA_APOYO2; Docente=D026"
+    },
+    {
+      "paralId": "P4",
+      "bloqueId": "B010",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-B-PLA; Asignatura=Educación Plástica (PLA); Aula=A202; Docente=D025"
+    },
+    {
+      "paralId": "P5",
+      "bloqueId": "B021",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-A-TIC; Asignatura=Tecnología de la Información (TIC); Aula=AULA_TIC; Docente=D007"
+    },
+    {
+      "paralId": "P5",
+      "bloqueId": "B022",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-B-DIVER; Asignatura=Ámbito Socioling. Diver (ASL3D); Aula=AULA_APOYO2; Docente=D026"
+    },
+    {
+      "paralId": "P5",
+      "bloqueId": "B023",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=3ESO-B-PLA; Asignatura=Educación Plástica (PLA); Aula=A202; Docente=D025"
+    },
+    {
+      "paralId": "P6A",
+      "bloqueId": "B026",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=4ESO-A; Asignatura=Biología y Geología (BIO); Aula=LAB_BIO; Docente=D012"
+    },
+    {
+      "paralId": "P6A",
+      "bloqueId": "B027",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=4ESO-B; Asignatura=Biología y Geología (BIO); Aula=A201; Docente=D020"
+    },
+    {
+      "paralId": "P6B",
+      "bloqueId": "B028",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=4ESO-B; Asignatura=Biología y Geología (BIO); Aula=LAB_BIO; Docente=D012"
+    },
+    {
+      "paralId": "P6B",
+      "bloqueId": "B029",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=4ESO-A; Asignatura=Biología y Geología (BIO); Aula=A202; Docente=D020"
+    },
+    {
+      "paralId": "P7",
+      "bloqueId": "B030",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=FP1-ELEC-A; Asignatura=Taller de Montaje (TALLER); Aula=TALLER_ELEC; Docente=D017"
+    },
+    {
+      "paralId": "P7",
+      "bloqueId": "B031",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=FP1-ELEC-B; Asignatura=CAD / Diseño Asistido (CAD); Aula=AULA_TIC; Docente=D018"
+    },
+    {
+      "paralId": "P7",
+      "bloqueId": "B032",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=FP1-ELEC-C; Asignatura=Prevención de Riesgos / Normativa (PRL); Aula=A201; Docente=D016"
+    },
+    {
+      "paralId": "P8",
+      "bloqueId": "B033",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=1BACH-CIEN; Asignatura=Matemáticas I (MAT1); Aula=A201; Docente=D001"
+    },
+    {
+      "paralId": "P8",
+      "bloqueId": "B034",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=1BACH-HUM; Asignatura=Latín I (LAT1); Aula=A202; Docente=D002"
+    },
+    {
+      "paralId": "P9",
+      "bloqueId": "B035",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=1ESO-A; Asignatura=Educación Física (EF); Aula=GYM; Docente=D014"
+    },
+    {
+      "paralId": "P9",
+      "bloqueId": "B036",
+      "grupoId": "",
+      "curso": "",
+      "asigId": "",
+      "notas": "Grupo=1ESO-B; Asignatura=Educación Física (EF); Aula=GYM; Docente=D021"
+    }
+  ],
+  "noCoincidir": [
+    {
+      "reglaId": "NC-DTEC2-2B",
+      "grupoId": "",
+      "curso": "2",
+      "asigId1": "DTEC2",
+      "asigId2": "DTEC2",
+      "motivo": "Partes de 2h no simultáneas (definición de paralelo)"
+    }
+  ],
+  "guardias": [
+    {
+      "docenteId": "D001",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D002",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D003",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D004",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D005",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D006",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D007",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D008",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D009",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D010",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D011",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D012",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D013",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D014",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D015",
+      "guardiasPasilloSemana": 1,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": "Orientador - carga reducida"
+    },
+    {
+      "docenteId": "D016",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D017",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D018",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D019",
+      "guardiasPasilloSemana": 0,
+      "guardiasRecreoSemana": 0,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "YES",
+      "notas": "Jefe de Estudios - exento"
+    },
+    {
+      "docenteId": "D020",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D021",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D022",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D023",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D024",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D025",
+      "guardiasPasilloSemana": 2,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": ""
+    },
+    {
+      "docenteId": "D026",
+      "guardiasPasilloSemana": 1,
+      "guardiasRecreoSemana": 1,
+      "guardiasConvivenciaSemana": 0,
+      "exento": "NO",
+      "notas": "Orientador - carga reducida"
+    }
+  ],
+  "disponibilidad": [
+    {
+      "docenteId": "D001",
+      "dia": "Lunes",
+      "slot": "1",
+      "tipoRestriccion": "NO_DISPONIBLE",
+      "comentario": "Reunión departamento"
+    },
+    {
+      "docenteId": "D002",
+      "dia": "Martes",
+      "slot": "6",
+      "tipoRestriccion": "NO_DISPONIBLE",
+      "comentario": "Coordinación pedagógica"
+    },
+    {
+      "docenteId": "D003",
+      "dia": "Miércoles",
+      "slot": "R",
+      "tipoRestriccion": "NO_DISPONIBLE",
+      "comentario": "Guardia biblioteca"
+    },
+    {
+      "docenteId": "D015",
+      "dia": "Jueves",
+      "slot": "2",
+      "tipoRestriccion": "NO_DISPONIBLE",
+      "comentario": "Atención familias"
+    },
+    {
+      "docenteId": "D015",
+      "dia": "Jueves",
+      "slot": "3",
+      "tipoRestriccion": "NO_DISPONIBLE",
+      "comentario": "Atención familias"
+    },
+    {
+      "docenteId": "D019",
+      "dia": "Viernes",
+      "slot": "1",
+      "tipoRestriccion": "NO_DISPONIBLE",
+      "comentario": "Claustro/CCP"
+    },
+    {
+      "docenteId": "D019",
+      "dia": "Viernes",
+      "slot": "2",
+      "tipoRestriccion": "NO_DISPONIBLE",
+      "comentario": "Claustro/CCP"
+    }
+  ],
+  "reuniones": [
+    {
+      "reuId": "REU001",
+      "nombre": "Departamento Matemáticas",
+      "duracionSlots": 1,
+      "bloquePreferido": "Lunes-6",
+      "notas": "Semanal"
+    },
+    {
+      "reuId": "REU002",
+      "nombre": "Equipo Docente 2º Bach",
+      "duracionSlots": 1,
+      "bloquePreferido": "Martes-6",
+      "notas": "Quincenal"
+    }
+  ],
+  "participantesReunion": [
+    {
+      "reuId": "REU001",
+      "docenteId": "D001"
+    },
+    {
+      "reuId": "REU002",
+      "docenteId": "D003"
+    },
+    {
+      "reuId": "REU002",
+      "docenteId": "D004"
+    },
+    {
+      "reuId": "REU002",
+      "docenteId": "D005"
+    }
+  ]
+}
